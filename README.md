@@ -36,7 +36,8 @@ Open your terminal or command prompt in the project directory and run the comman
 ```bash java Guess_The_Number ```
 
 ---
-
+## Project URL
+https://github.com/Akashmishra1421/Guess-The-Number-Java/
 ## 📸 Game Preview
 Below is an example of the game interface in action:
 
