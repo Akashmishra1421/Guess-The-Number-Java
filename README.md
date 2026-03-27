@@ -37,7 +37,7 @@ Open your terminal or command prompt in the project directory and run the comman
 
 ---
 ## Project URL
-https://github.com/Akashmishra1421/Guess-The-Number-Java/
+[https://github.com/Akashmishra1421/Guess-The-Number-Java/](https://roadmap.sh/projects/number-guessing-game)
 ## 📸 Game Preview
 Below is an example of the game interface in action:
 
